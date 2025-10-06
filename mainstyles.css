@@ -1,0 +1,14 @@
+body{
+  background-color: blue;
+  margin: 10%;
+
+}
+.sectionstyle{
+  float: right;
+  margin-left: 2%;
+}
+.img{
+  width: 45%;
+  height: 30%;
+  float: left;
+}
